@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241703266376",
+    "project_id": "deumanager-b86a6",
+    "storage_bucket": "deumanager-b86a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241703266376:android:567bc83912fdc35c7f907d",
+        "android_client_info": {
+          "package_name": "com.example.deumanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241703266376-klsisj2pocrdbrtc24696q0dkjl478hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGlWkgH6VdxD2NpuXym3mF_kjyEma-fSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241703266376-klsisj2pocrdbrtc24696q0dkjl478hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
